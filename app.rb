@@ -8,5 +8,5 @@ get '/secret' do
 end 
 
 get '/cat' do
-erb(:index)
+  erb(:index)
 end 
